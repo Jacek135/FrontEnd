@@ -1,0 +1,38 @@
+body{
+    background-color: #70b080;
+
+}
+
+p{
+    color: blueviolet;
+    font-size: 40px;
+}
+
+#wstep
+{
+    background-color: #121212;
+    width: 45%;
+    height: 150px;
+    float: left;
+    margin-right: 5px;
+}
+
+#rozwiniecie
+{
+    background-color: #666777;
+    width: 45%;
+    height: 150px;
+    float: left;
+    margin-right: 5px;
+}
+
+#zakonczenie{
+    clear: both;
+    background-color: #765432;
+    margin-top: 390px;
+}
+
+#futter{
+    background-color: #aaaaaa;
+    margin-top: 00px;
+}
